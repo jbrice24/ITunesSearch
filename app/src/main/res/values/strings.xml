@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ITunes Search</string>
+    <string name="artwork">artwork</string>
+    <string name="search">Search</string>
+    <string name="blur_background">blur_background</string>
+    <string name="not_results">No songs found result for</string>
+    <string name="us">US $ %s</string>
+    <string name="error_display">Problem while getting song info, Try again.</string>
+</resources>
